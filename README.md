@@ -13,7 +13,7 @@
   </p>
 </h3>
 
-<h3 align="left"> 🌱 I’m currently learning mobilies technologies such as Flutter, React Native and IOS.</h3>
+<h3 align="left"> 🌱 I’m currently learning full stack technologies such as Angular, React and deepening my knowlodge in Kotlin, Java, Spring and MongoDB.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
