@@ -28,3 +28,7 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wallysonlima&hide_border=true)
 
+<h1>Visitas!</h1>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{wallysonlima}/count.svg)
+
