@@ -5,9 +5,11 @@
 
 <h3 align="center">
   <p align="left">
-   I am a Software Engineer with a degree in Computer Science from UNESP and an MBA from USP. I specialize in backend technologies, primarily developing with Java and Kotlin. I also have knowledge of Angular, HTML, CSS, and Bootstrap.
-
-   My main hobbies include reading, jogging, meditating, and in my free time, I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
+   I am a Software Engineer with a degree in Computer Science from UNESP and an MBA from USP. 
+    I specialize in backend technologies, primarily developing with Java and Kotlin. 
+    I also have knowledge of Angular, HTML, CSS, and Bootstrap.
+    My main hobbies include reading, jogging, meditating, and in my free time, 
+    I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
   </p>
 </h3>
 
