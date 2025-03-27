@@ -5,15 +5,15 @@
 
 <h3 align="center">
   <p align="left">
-    I am a developer with a degree in computer science from Unesp. 
-    I am a developer focused on mobile technologies, the main technologies
-    in which I develop are Java and Kotlin. My main hobbies are reading, 
-    jogging, meditating and in my spare time I love to share a cup of
+    I am a Software Engineer with a degree in computer science from Unesp and a MBA from USP. 
+    I am focused on backend technologies, the main technologies
+    in which I develop are Java and Kotlin. I also have knowlodge in Angular, HTML, CSS e Bootstrap.
+    My main hobbies are reading, jogging, meditating and in my spare time I love to share a cup of
     coffee and chat 💬 with friends 😄 .
   </p>
 </h3>
 
-<h3 align="left"> 🌱 I’m currently learning full stack technologies such as Angular, React and deepening my knowlodge in Kotlin, Java, Spring and MongoDB.</h3>
+<h3 align="left"> 🌱 I’m currently learning full stack technologies such as Angular and deepening my knowlodge in Kotlin, Java, Spring, DevOps and Cloud AWS.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
