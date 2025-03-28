@@ -24,10 +24,19 @@
 ## 📈 GitHub analytics
 
 
-<p align="center">
+<p align="left">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallysonlima&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallysonlima&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wallysonlima&theme=tokyonight">
+</p>
+        
+        
+        
+        
+<p align="left" margin-left="100px">        
+        
+  [![Wallyson Lima github stats](https://bad-apple-github-readme.vercel.app/api?username=wallysonlima&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+        [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wallysonlima&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)<br>
 </p>
 
 <div align="center">
