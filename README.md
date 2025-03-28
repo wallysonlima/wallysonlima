@@ -26,5 +26,7 @@
 <p class="column" align="left"><img src="https://github-readme-stats.vercel.app/api?username=wallysonlima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000" />
 </p>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wallysonlima&hide_border=true)
+![LinkedinWallysonLima](https://github.com/user-attachments/assets/b59ea6fa-1ffd-41d0-9746-c60a0c7b3e2a)
+
+
 
