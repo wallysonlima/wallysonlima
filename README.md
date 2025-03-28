@@ -25,15 +25,9 @@
 
 
 <p align="center">
-<!--         <img src="https://streak-stats.demolab.com/?user=gogodze&theme=tokyonight"/> -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallysonlima&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallysonlima&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wallysonlima&theme=tokyonight">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gogodze/gogodze/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gogodze/gogodze/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gogodze/gogodze/output/github-contribution-grid-snake.svg">
-        </picture>
 </p>
 
 <div align="center">
