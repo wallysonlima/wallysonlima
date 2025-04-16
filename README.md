@@ -49,7 +49,7 @@
 <div align="center">
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Give+a+Star!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 </div>
 
