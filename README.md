@@ -12,6 +12,9 @@
     I also have knowledge of Angular, HTML, CSS, and Bootstrap.
     My main hobbies include reading, jogging, meditating, and in my free time, 
     I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
+    I programmer that dream about spaceships navigation at the milk way, I going to help new spaceships to achieve other parts of the milkway, with my future knowledge in Quantics Computer, 
+    I dream about the immensity of space.
+    Who built the future with me ? A Qubit at a time.
   </p>
 </h3>
 
@@ -38,12 +41,6 @@
   [![Wallyson Lima github stats](https://bad-apple-github-readme.vercel.app/api?username=wallysonlima&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
         [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wallysonlima&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)<br>
 </p>
-
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wallysonlima}/count.svg" /></p> 
-</div>
 <br>
 </details>
 <div align="center">
