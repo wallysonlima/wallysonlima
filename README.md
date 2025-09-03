@@ -12,7 +12,7 @@
     I also have knowledge of Angular, HTML, CSS, and Bootstrap.
     My main hobbies include reading, jogging, meditating, and in my free time, 
     I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
-    I programmer that dream about spaceships navigation at the milk way, I going to help new spaceships to achieve other parts of the milkway, with my future knowledge in Quantics Computer, 
+    I am a programmer that dream about spaceships navegation at the milk way, I going to help new spaceships to achieve other parts of the milkway, with my future knowledge in Quantics Computer, 
     I dream about the immensity of space.
     Who built the future with me ? A Qubit at a time.
   </p>
