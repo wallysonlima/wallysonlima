@@ -14,7 +14,7 @@
     I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
     I am a programmer that dream about spaceships navegation at the milk way, I going to help new spaceships to achieve other parts of the milkway, with my future knowledge in Quantum Computing, 
     I dream about the immensity of space.
-    Who built the future with me ? A Qubit at a time.
+    Who will build the future with me ? A Qubit at a time.
   </p>
 </h3>
 
