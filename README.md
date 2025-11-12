@@ -37,9 +37,7 @@
         
         
 <p align="left" margin-left="100px">        
-        
-  [![Wallyson Lima github stats](https://bad-apple-github-readme.vercel.app/api?username=wallysonlima&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-        [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wallysonlima&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)<br>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wallysonlima&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Wallyson Lima github stats" /> 
 </p>
 <br>
 </details>
