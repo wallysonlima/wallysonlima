@@ -6,13 +6,10 @@
 <h1 align="center">Hi 👋, I'm Wallyson Lima</h1>
 
 <h3 align="center">
-  <p align="left">
-   I am a Software Engineer with a degree in Computer Science from UNESP and an MBA from USP. 
-    I specialize in backend technologies, primarily developing with Java and Kotlin. 
-    I also have knowledge of Angular, HTML, CSS, and Bootstrap.
-    My main hobbies include reading, jogging, meditating, and in my free time, 
-    I love sharing a cup of coffee and having great conversations with friends ☕💬😄.
-  </p>
+<p align="left">
+I am a Backend Software Engineer with 5 years of experience building scalable and distributed systems, mainly working with Java and Kotlin, microservices architectures, and event-driven solutions.
+I hold a Bachelor’s degree in Computer Science from UNESP and an MBA in Software Engineering from USP, which provided me with a strong foundation in both technical and architectural aspects, always focused on quality, scalability, and          engineering best practices.
+</p>
 </h3>
 
 <h3 align="left"> 🌱 I’m currently learning full-stack technologies such as Angular and deepening my knowledge of Kotlin, Java, Spring, DevOps, and AWS Cloud.</h3>
@@ -46,8 +43,6 @@
 </div>
 
 ![LinkedinWallysonLima](https://github.com/user-attachments/assets/b59ea6fa-1ffd-41d0-9746-c60a0c7b3e2a)
-
-<img align="center" src="https://github.com/wallysonlima/websmartoffice/blob/main/WebSmartOffice/printscreens/TalkIsSimpleShowMeTheCode.png">
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
 
